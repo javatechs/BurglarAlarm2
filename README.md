@@ -1,2 +1,2 @@
-# BurlarAlarm2
-BurlarAlarm2 sketch for Makeblock
+# BurglarAlarm2
+BurglarAlarm2 sketch for Makeblock
